@@ -31,10 +31,10 @@ Quick View is a plugin that allows the customers on your site to have a brief ov
 4. You can freely choose the size of images as well as other icons that will be shown in the quick view popup
 5. You can upload any image you want for the navigation arrows
 6. You can go to the product page directly from the popup window
-7. Advance styling options to customize the plugin for your site’s color theme
+7. Advance styling options to customize the plugin for your site's color theme
  
 
-**Support link** – [Support](http://www.phoeniixx.com/support)
+**Support link** - [Support](http://www.phoeniixx.com/support)
 
 **Premium Version link** - [Premium Version]( http://www.phoeniixx.com/product/woocommerce-quick-view/) 
 
