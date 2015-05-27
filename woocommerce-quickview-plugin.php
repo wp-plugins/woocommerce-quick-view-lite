@@ -175,7 +175,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 		
 		$plugin_dir_url =  plugin_dir_url( __FILE__ );
 		
-		add_menu_page( 'phoeniixx', __( 'Phoeniixx', 'phe' ), 'nosuchcapability', 'phoeniixx', NULL, $plugin_dir_url.'/images/logo-wp.png', 60 );
+		add_menu_page( 'phoeniixx', __( 'Phoeniixx', 'phe' ), 'nosuchcapability', 'phoeniixx', NULL, $plugin_dir_url.'/images/logo-wp.png', 57 );
         
 		add_submenu_page( 'phoeniixx', 'Quick View', 'Quick View', 'manage_options', 'quick_view_setting', 'quick_view_setting' );
 
