@@ -197,7 +197,7 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 		if($wpdb->get_var("show tables like '$wp_track_members_table'") != $wp_track_members_table) 
 		{
 
-			$sql0  = "CREATE TABLE `". $wp_track_members_table . "` ( ";
+			$sql0  = "CREATE TABLE `". $wp_track_quick_view_table . "` ( ";
 
 			$sql0 .= "  `id`  int(11)   NOT NULL auto_increment, ";
 
@@ -238,6 +238,8 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 			$sql0 .= "  `product_excerpt`  int(11)   NOT NULL, ";
 			
 			$sql0 .= "  `checkqv`  int(11)   NOT NULL, ";
+			
+			$sql0 .= "  `checkqvm`  int(11)   NOT NULL, ";
 			
 			$sql0 .= "  `productnav`  int(11)   NOT NULL, ";
 			
