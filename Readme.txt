@@ -7,7 +7,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Quick View is a plugin that allows the customers to have a brief overview of every product in a pop-up box
+Quick View is a plugin that allows the customers to have a brief overview of every product in a pop-up box.
 
 == Description ==
 
