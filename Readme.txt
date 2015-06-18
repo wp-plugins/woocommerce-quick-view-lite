@@ -38,7 +38,7 @@ Quick View is a plugin that allows the customers on your site to have a brief ov
 
 **Support : Email :** - [tarun@phoeniixx.com](mailto:tarun@phoeniixx.com)
 
-**Skype** - phoeniixx.tarun
+**Skype** - [phoeniixx.tarun](skype:phoeniixx.tarun?add)
 
 **Ticket system** - [Click here](http://www.phoeniixx.com/support)
 
