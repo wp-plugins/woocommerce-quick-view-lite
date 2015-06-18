@@ -34,7 +34,15 @@ Quick View is a plugin that allows the customers on your site to have a brief ov
 7. Advance styling options to customize the plugin for your site's color theme
  
 
-**Support link** - [Support](http://www.phoeniixx.com/support)
+**Support**
+
+**Support : Email :** - [tarun@phoeniixx.com](mailto:tarun@phoeniixx.com)
+
+**Skype** - [phoeniixx.tarun](skype:phoeniixx.tarun?userinfo)
+
+**Ticket system** - [Click here](http://www.phoeniixx.com/support)
+
+**Website** - [www.phoeniixx.com ](http://www.phoeniixx.com)
 
 **Premium Version link** - [Premium Version]( http://www.phoeniixx.com/product/woocommerce-quick-view/) 
 
