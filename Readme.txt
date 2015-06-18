@@ -1,6 +1,6 @@
 === Woocommerce Quick View lite ===
 Contributors: Phoeniixx Team
-Tags: phoeniixx, woocommerce,products quick view,quick view, woocommerce quick view, free quick view, woocommerce plugins
+Tags: phoeniixx, woocommerce,products quick view,quick view, woocommerce quick view, free quick view, woocommerce plugins ,Woocommerce Quick View lite
 Requires at least: 4.0
 Tested up to: 4.2.2
 Stable tag: 1.0
