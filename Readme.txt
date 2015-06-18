@@ -42,7 +42,7 @@ Quick View is a plugin that allows the customers on your site to have a brief ov
 
 **Ticket system** - [Click here](http://www.phoeniixx.com/support)
 
-**Website** - [www.phoeniixx.com](http://www.phoeniixx.com)
+**Website** - [phoeniixx.com](http://www.phoeniixx.com)
 
 **Premium Version link** - [Premium Version]( http://www.phoeniixx.com/product/woocommerce-quick-view/) 
 
