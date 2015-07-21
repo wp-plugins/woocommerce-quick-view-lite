@@ -46,7 +46,6 @@ Quick View is a plugin that allows the customers on your site to have a brief ov
 
 **Premium Version link** - [Premium Version]( http://www.phoeniixx.com/product/woocommerce-quick-view/) 
 
-
 For a more detailed list of options and features of the plugin, please look at the [Official Documentation](http://www.phoeniixx.com/docs/woocommerce/woocommerce-quick-view/index.html)
 
 == Installation ==
