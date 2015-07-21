@@ -6,9 +6,34 @@ jQuery(document).ready(function($){
         wc_overlay  = wc_popup.find( '.wc-quick-view-overlay'),
         wc_content  = wc_popup.find( '#wc-quick-view-content' ),
         wc_close    = wc_popup.find( '#wc-quick-view-close' );
+		
+		
+		jQuery(document).on('click','.ajax',showQuickView);
+		function showQuickView(e){
+			
+			e.preventDefault();
+			var pro_id = $(this).attr('pro_id'); 
+		    var action = $(this).attr('action'); 
+		    //var product_type = $(this).attr('product_type'); 
+		if( ! wc_popup.hasClass( 'active' ) ) {
+                wc_popup.addClass('active');
+		}    
+		$.ajax({
+			type: 'POST',
+			url : MyAjax.ajaxurl,
+			data : {
+					pid : pro_id,
+					action : action
+					},
+			success: function(data) {
+				wc_content.html(data);
+
+			}
+		});
+		}
 
 						
-	$('.ajax').on('click', function(e){
+	/*$('.ajax').on('click', function(e){
 		// prevent default behaviour
 		e.preventDefault();
 
@@ -31,7 +56,7 @@ jQuery(document).ready(function($){
 			}
 		});
 
-	});	
+	});	*/
 
 		wc_close.on( 'click', function(e) {
 			
@@ -56,5 +81,9 @@ jQuery(document).ready(function($){
             }, 1000);
 			
         });
+		
+		
+	
+		
 
 });

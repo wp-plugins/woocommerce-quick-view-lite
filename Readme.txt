@@ -69,5 +69,9 @@ Quick View is a plugin that allows the customers on your site to have a brief ov
 3. This page shows all the settings. If you want to change any settings, you can do it from here.  
 
 == Changelog ==
+
+= 1.1 - 21/07/2015 =
+* Fix - Compatibility issues.
+
 = 1.0 =
 * Initial release.
