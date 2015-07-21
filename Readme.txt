@@ -1,6 +1,6 @@
 === Woocommerce Quick View lite ===
 Contributors: Phoeniixx Team
-Tags: phoeniixx, woocommerce,products quick view,quick view, woocommerce quick view, free quick view, woocommerce plugins ,Woocommerce Quick View lite
+Tags: phoeniixx,woocommerce,products quick view,quick view,woocommerce quick view,free quick view,woocommerce plugins ,Woocommerce Quick View lite
 Requires at least: 4.0
 Tested up to: 4.2.2
 Stable tag: 1.1
@@ -45,6 +45,9 @@ Quick View is a plugin that allows the customers on your site to have a brief ov
 **Website** - [phoeniixx.com](http://www.phoeniixx.com)
 
 **Premium Version link** - [Premium Version]( http://www.phoeniixx.com/product/woocommerce-quick-view/) 
+
+
+For a more detailed list of options and features of the plugin, please look at the [Official Documentation](http://www.phoeniixx.com/docs/woocommerce/woocommerce-quick-view/index.html)
 
 == Installation ==
 
