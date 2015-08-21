@@ -2,7 +2,7 @@
 Contributors: phoeniixx
 Tags: phoeniixx, woocommerce,products quick view,quick view, woocommerce quick view, free quick view, woocommerce plugins ,Woocommerce Quick View lite
 Requires at least: 4.0
-Tested up to: 4.2.2
+Tested up to: 4.3
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
