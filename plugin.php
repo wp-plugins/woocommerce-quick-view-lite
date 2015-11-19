@@ -4,7 +4,7 @@ Plugin Name: Woocommerce Quick View Lite
 Plugin URI: http://www.phoeniixx.com
 Description: Quick View is a plugin that allows the customers to have a brief overview of every product in a pop-up box.
 Author: phoeniixx
-Version: 1.1
+Version: 1.2
 Author URI: http://www.phoeniixx.com
 **/
 if ( ! defined( 'ABSPATH' ) )
