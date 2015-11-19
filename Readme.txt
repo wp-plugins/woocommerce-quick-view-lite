@@ -68,7 +68,7 @@ Quick View is a plugin that allows the customers on your site to have a brief ov
 
 == Changelog ==
 
-= 1.2 - 21/07/2015 =
+= 1.2 - 19/11/2015 =
 * Bug Fixes
 
 = 1.1 - 21/07/2015 =
