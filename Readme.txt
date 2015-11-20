@@ -2,8 +2,8 @@
 Contributors: phoeniixx
 Tags: phoeniixx, woocommerce,products quick view,quick view, woocommerce quick view, free quick view, woocommerce plugins ,Woocommerce Quick View lite
 Requires at least: 4.0
-Tested up to: 4.3
-Stable tag: 1.1
+Tested up to: 4.3.1
+Stable tag: 1.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -70,6 +70,11 @@ Quick View is a plugin that allows the customers on your site to have a brief ov
 
 == Changelog ==
 
+= 1.2.1 - 20/11/2015 =
+* Bug Fixes
+
+= 1.2 - 19/11/2015 =
+* Bug Fixes
 
 = 1.1 - 21/07/2015 =
 * Fix - Compatibility issues.
