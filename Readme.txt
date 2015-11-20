@@ -2,8 +2,8 @@
 Contributors: phoeniixx
 Tags: phoeniixx, woocommerce,products quick view,quick view, woocommerce quick view, free quick view, woocommerce plugins ,Woocommerce Quick View lite
 Requires at least: 4.0
-Tested up to: 4.3.1
-Stable tag: 1.2
+Tested up to: 4.3
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,12 +12,14 @@ Quick View is a plugin that allows the customers to have a brief overview of eve
 == Description ==
 
 When a customer browses products on a site, they want the process to be fast. They want to browse maximum products in the minimum amount of time. As such, they do not want to visit the page of every product that they browse.
+
 Quick View is a plugin that allows the customers on your site to have a brief overview of every product in a pop-up box before they decide to buy it. This step saves time and gives them a faster and much more intuitive browsing experience.
 
 
 **Quick View lite Features:**
 
-1. You can choose the text that you want to appear on the Quick View button of your site
+1. You can choose the size you want for the Quick View Popup
+2. You can choose the text that you want to appear on the Quick View button of your site
 3. Basic styling of Background color, Quick view button color, Close Popup button color, and Close Popup button hover color  
 
 
@@ -32,17 +34,17 @@ Quick View is a plugin that allows the customers on your site to have a brief ov
 7. Advance styling options to customize the plugin for your site's color theme
  
 
+**Premium Version link** - [Premium Version](http://www.phoeniixx.com/product/woocommerce-quick-view/?utm_source=Wordpress.org&utm_medium=CPC&utm_campaign=Wordpress.org) 
+
 **Support**
 
-**Support : Email :** - [tarun@phoeniixx.com](mailto:tarun@phoeniixx.com)
+**Email :** - [tarun@phoeniixx.com](mailto:tarun@phoeniixx.com)
 
 **Skype** - phoeniixx.tarun
 
 **Ticket system** - [Click here](http://www.phoeniixx.com/support)
 
-**Website** - [phoeniixx.com](http://www.phoeniixx.com)
-
-**Premium Version link** - [Premium Version]( http://www.phoeniixx.com/product/woocommerce-quick-view/) 
+**Website** - [http://www.phoeniixx.com/products/](http://www.phoeniixx.com/products/)
 
 == Installation ==
 
@@ -68,8 +70,6 @@ Quick View is a plugin that allows the customers on your site to have a brief ov
 
 == Changelog ==
 
-= 1.2 - 19/11/2015 =
-* Bug Fixes
 
 = 1.1 - 21/07/2015 =
 * Fix - Compatibility issues.
